@@ -24,8 +24,6 @@
   <img alt="Docs Only" src="https://img.shields.io/badge/Repo-Docs%20Only-black">
 </p>
 
-> **重要说明**：本仓库是公开观察手册和产品说明，**不包含源码，不提供自动交易，不荐股，不构成投资建议**。历史表现不代表未来。
-
 ---
 
 ## 这个项目解决什么问题？
